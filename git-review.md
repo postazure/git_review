@@ -34,7 +34,9 @@
   * git commit -m "<msg>"
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * git commit -m "line 1 msg
+    line 2
+    line 3"
 
 * Push your local repository to github (assume your remote is already set)
   * < your answer here >

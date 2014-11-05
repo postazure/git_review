@@ -57,7 +57,7 @@
   * git log
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git reset --hard <SHA-1>
 
 #### You should understand the following:
 

@@ -39,7 +39,7 @@
     line 3"
 
 * Push your local repository to github (assume your remote is already set)
-  * < your answer here >
+  * git push
 
 * Add a remote to your repository
   * < your answer here >
